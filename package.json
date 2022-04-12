@@ -1,6 +1,6 @@
 {
-  "name": "global-component",
-  "version": "1.0.0",
+  "name": "@sandhani45/global-component",
+  "version": "0.0.1",
   "description": "",
   "main": "dist/cjs/index.js",
   "publishConfig": {
